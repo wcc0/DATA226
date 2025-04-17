@@ -1,27 +1,0 @@
-[2025-04-17T06:44:29.736+0000] {local_task_job_runner.py:123} INFO - ::group::Pre task execution logs
-[2025-04-17T06:44:29.745+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=non-requeueable deps ti=<TaskInstance: Medium_to_Pinecone.test_search_query manual__2025-04-17T06:43:40.012452+00:00 [queued]>
-[2025-04-17T06:44:29.750+0000] {taskinstance.py:2612} INFO - Dependencies all met for dep_context=requeueable deps ti=<TaskInstance: Medium_to_Pinecone.test_search_query manual__2025-04-17T06:43:40.012452+00:00 [queued]>
-[2025-04-17T06:44:29.751+0000] {taskinstance.py:2865} INFO - Starting attempt 1 of 2
-[2025-04-17T06:44:29.758+0000] {taskinstance.py:2888} INFO - Executing <Task(_PythonDecoratedOperator): test_search_query> on 2025-04-17 06:43:40.012452+00:00
-[2025-04-17T06:44:29.766+0000] {standard_task_runner.py:104} INFO - Running: ['***', 'tasks', 'run', 'Medium_to_Pinecone', 'test_search_query', 'manual__2025-04-17T06:43:40.012452+00:00', '--job-id', '100', '--raw', '--subdir', 'DAGS_FOLDER/build_pinecone_search.py', '--cfg-path', '/tmp/tmpcp2zo06j']
-[2025-04-17T06:44:29.768+0000] {standard_task_runner.py:105} INFO - Job 100: Subtask test_search_query
-[2025-04-17T06:44:29.769+0000] {logging_mixin.py:190} WARNING - /home/***/.local/lib/python3.12/site-packages/***/task/task_runner/standard_task_runner.py:70 DeprecationWarning: This process (pid=2347) is multi-threaded, use of fork() may lead to deadlocks in the child.
-[2025-04-17T06:44:29.769+0000] {standard_task_runner.py:72} INFO - Started process 2368 to run task
-[2025-04-17T06:44:29.794+0000] {task_command.py:467} INFO - Running <TaskInstance: Medium_to_Pinecone.test_search_query manual__2025-04-17T06:43:40.012452+00:00 [running]> on host 6772acafc88b
-[2025-04-17T06:44:29.843+0000] {taskinstance.py:3131} INFO - Exporting env vars: AIRFLOW_CTX_DAG_OWNER='***' AIRFLOW_CTX_DAG_ID='Medium_to_Pinecone' AIRFLOW_CTX_TASK_ID='test_search_query' AIRFLOW_CTX_EXECUTION_DATE='2025-04-17T06:43:40.012452+00:00' AIRFLOW_CTX_TRY_NUMBER='1' AIRFLOW_CTX_DAG_RUN_ID='manual__2025-04-17T06:43:40.012452+00:00'
-[2025-04-17T06:44:29.843+0000] {taskinstance.py:731} INFO - ::endgroup::
-[2025-04-17T06:44:29.850+0000] {SentenceTransformer.py:219} INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
-[2025-04-17T06:44:31.593+0000] {logging_mixin.py:190} WARNING - Batches:   0%|          | 0/1 [00:00<?, ?it/s]
-[2025-04-17T06:44:31.611+0000] {logging_mixin.py:190} WARNING - Batches: 100%|##########| 1/1 [00:00<00:00, 55.65it/s]
-[2025-04-17T06:44:32.068+0000] {logging_mixin.py:190} INFO - Search results for query: 'what is ethics in AI'
-[2025-04-17T06:44:32.069+0000] {logging_mixin.py:190} INFO - ID: 1, Score: 0.74098587, Title: Ethics in AI: Potential Root Causes for Biased Alg...
-[2025-04-17T06:44:32.069+0000] {logging_mixin.py:190} INFO - ID: 1634, Score: 0.74098587, Title: Ethics in AI: Potential Root Causes for Biased Alg...
-[2025-04-17T06:44:32.070+0000] {logging_mixin.py:190} INFO - ID: 1326, Score: 0.717011333, Title: The ethical implications of AI in design It’s time...
-[2025-04-17T06:44:32.070+0000] {logging_mixin.py:190} INFO - ID: 661, Score: 0.666943729, Title: Ethical Considerations In Machine Learning Project...
-[2025-04-17T06:44:32.070+0000] {logging_mixin.py:190} INFO - ID: 1627, Score: 0.651700795, Title: Navigating the Ethical Contours of AI Copy Generat...
-[2025-04-17T06:44:32.072+0000] {python.py:240} INFO - Done. Returned value was: None
-[2025-04-17T06:44:32.077+0000] {taskinstance.py:340} INFO - ::group::Post task execution logs
-[2025-04-17T06:44:32.078+0000] {taskinstance.py:352} INFO - Marking task as SUCCESS. dag_id=Medium_to_Pinecone, task_id=test_search_query, run_id=manual__2025-04-17T06:43:40.012452+00:00, execution_date=20250417T064340, start_date=20250417T064429, end_date=20250417T064432
-[2025-04-17T06:44:32.109+0000] {local_task_job_runner.py:266} INFO - Task exited with return code 0
-[2025-04-17T06:44:32.118+0000] {taskinstance.py:3900} INFO - 0 downstream tasks scheduled from follow-on schedule check
-[2025-04-17T06:44:32.120+0000] {local_task_job_runner.py:245} INFO - ::endgroup::
