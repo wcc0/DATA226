@@ -1,0 +1,490 @@
+[2025-03-28T00:00:07.476+0000] {processor.py:186} INFO - Started process (PID=30219) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:00:07.477+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:00:07.486+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:00:07.486+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:00:07.566+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:00:07.616+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:00:07.616+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:00:07.676+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:00:07.676+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:00:07.727+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.262 seconds
+[2025-03-28T00:00:38.086+0000] {processor.py:186} INFO - Started process (PID=30240) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:00:38.094+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:00:38.096+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:00:38.096+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:00:38.186+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:00:38.237+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:00:38.237+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:00:38.305+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:00:38.305+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:00:38.385+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.319 seconds
+[2025-03-28T00:01:08.635+0000] {processor.py:186} INFO - Started process (PID=30261) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:01:08.636+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:01:08.645+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:01:08.644+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:01:08.726+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:01:08.776+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:01:08.776+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:01:08.837+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:01:08.836+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:01:08.894+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.271 seconds
+[2025-03-28T00:01:39.296+0000] {processor.py:186} INFO - Started process (PID=30282) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:01:39.304+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:01:39.306+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:01:39.305+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:01:39.395+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:01:39.445+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:01:39.445+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:01:39.505+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:01:39.505+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:01:39.556+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.272 seconds
+[2025-03-28T00:02:10.035+0000] {processor.py:186} INFO - Started process (PID=30303) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:02:10.036+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:02:10.045+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:02:10.045+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:02:10.134+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:02:10.176+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:02:10.176+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:02:10.244+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:02:10.244+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:02:10.295+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.279 seconds
+[2025-03-28T00:02:40.725+0000] {processor.py:186} INFO - Started process (PID=30324) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:02:40.725+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:02:40.735+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:02:40.734+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:02:40.824+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:02:40.866+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:02:40.866+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:02:40.935+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:02:40.934+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:02:40.994+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.289 seconds
+[2025-03-28T00:03:11.454+0000] {processor.py:186} INFO - Started process (PID=30345) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:03:11.455+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:03:11.464+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:03:11.464+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:03:11.555+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:03:11.606+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:03:11.605+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:03:11.685+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:03:11.685+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:03:11.785+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.359 seconds
+[2025-03-28T00:03:42.524+0000] {processor.py:186} INFO - Started process (PID=30366) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:03:42.524+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:03:42.534+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:03:42.533+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:03:42.615+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:03:42.666+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:03:42.665+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:03:42.736+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:03:42.735+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:03:42.794+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.289 seconds
+[2025-03-28T00:04:13.325+0000] {processor.py:186} INFO - Started process (PID=30387) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:04:13.326+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:04:13.335+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:04:13.335+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:04:13.444+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:04:13.496+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:04:13.495+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:04:13.574+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:04:13.566+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:04:13.635+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.330 seconds
+[2025-03-28T00:04:43.855+0000] {processor.py:186} INFO - Started process (PID=30408) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:04:43.864+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:04:43.865+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:04:43.865+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:04:43.954+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:04:44.004+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:04:44.004+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:04:44.065+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:04:44.065+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:04:44.126+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.290 seconds
+[2025-03-28T00:05:14.276+0000] {processor.py:186} INFO - Started process (PID=30428) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:05:14.285+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:05:14.294+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:05:14.294+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:05:14.395+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:05:14.446+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:05:14.446+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:05:14.525+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:05:14.525+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:05:14.586+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.330 seconds
+[2025-03-28T00:05:45.056+0000] {processor.py:186} INFO - Started process (PID=30449) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:05:45.064+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:05:45.066+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:05:45.065+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:05:45.175+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:05:45.226+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:05:45.225+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:05:45.295+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:05:45.295+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:05:45.364+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.329 seconds
+[2025-03-28T00:06:15.696+0000] {processor.py:186} INFO - Started process (PID=30470) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:06:15.697+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:06:15.707+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:06:15.706+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:06:15.816+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:06:15.876+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:06:15.875+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:06:15.946+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:06:15.946+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:06:16.024+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.341 seconds
+[2025-03-28T00:06:46.357+0000] {processor.py:186} INFO - Started process (PID=30491) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:06:46.358+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:06:46.367+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:06:46.367+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:06:46.468+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:06:46.527+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:06:46.527+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:06:46.607+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:06:46.607+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:06:46.678+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.340 seconds
+[2025-03-28T00:07:16.918+0000] {processor.py:186} INFO - Started process (PID=30512) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:07:16.926+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:07:16.928+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:07:16.928+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:07:17.028+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:07:17.088+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:07:17.087+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:07:17.177+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:07:17.177+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:07:17.247+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.349 seconds
+[2025-03-28T00:07:47.646+0000] {processor.py:186} INFO - Started process (PID=30533) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:07:47.647+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:07:47.657+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:07:47.657+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:07:47.777+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:07:47.846+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:07:47.838+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:07:47.927+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:07:47.927+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:07:47.996+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.379 seconds
+[2025-03-28T00:08:18.509+0000] {processor.py:186} INFO - Started process (PID=30554) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:08:18.510+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:08:18.520+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:08:18.520+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:08:18.669+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:08:18.749+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:08:18.740+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:08:18.830+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:08:18.830+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:08:18.918+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.430 seconds
+[2025-03-28T00:08:49.290+0000] {processor.py:186} INFO - Started process (PID=30575) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:08:49.298+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:08:49.300+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:08:49.300+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:08:49.409+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:08:49.460+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:08:49.460+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:08:49.540+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:08:49.530+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:08:49.598+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.328 seconds
+[2025-03-28T00:09:20.002+0000] {processor.py:186} INFO - Started process (PID=30596) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:09:20.012+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:09:20.022+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:09:20.021+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:09:20.151+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:09:20.211+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:09:20.203+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:09:20.282+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:09:20.282+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:09:20.361+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.369 seconds
+[2025-03-28T00:09:50.845+0000] {processor.py:186} INFO - Started process (PID=30617) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:09:50.854+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:09:50.856+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:09:50.855+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:09:50.974+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:09:51.034+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:09:51.034+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:09:51.115+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:09:51.115+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:09:51.194+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.369 seconds
+[2025-03-28T00:10:21.638+0000] {processor.py:186} INFO - Started process (PID=30638) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:10:21.639+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:10:21.657+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:10:21.649+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:10:21.769+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:10:21.838+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:10:21.837+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:10:21.918+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:10:21.918+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:10:21.988+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.370 seconds
+[2025-03-28T00:10:52.494+0000] {processor.py:186} INFO - Started process (PID=30659) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:10:52.495+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:10:52.505+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:10:52.505+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:10:52.635+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:10:52.715+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:10:52.715+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:10:52.805+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:10:52.805+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:10:52.886+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.421 seconds
+[2025-03-28T00:11:23.444+0000] {processor.py:186} INFO - Started process (PID=30680) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:11:23.445+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:11:23.454+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:11:23.454+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:11:23.594+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:11:23.674+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:11:23.674+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:11:23.813+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:11:23.813+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:11:23.914+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.500 seconds
+[2025-03-28T00:11:54.365+0000] {processor.py:186} INFO - Started process (PID=30701) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:11:54.366+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:11:54.376+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:11:54.376+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:11:54.546+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:11:54.616+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:11:54.615+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:11:54.705+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:11:54.705+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:11:54.786+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.441 seconds
+[2025-03-28T00:12:25.435+0000] {processor.py:186} INFO - Started process (PID=30728) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:12:25.444+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:12:25.454+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:12:25.445+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:12:25.575+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:12:25.645+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:12:25.644+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:12:25.744+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:12:25.735+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:12:25.825+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.421 seconds
+[2025-03-28T00:12:56.388+0000] {processor.py:186} INFO - Started process (PID=30749) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:12:56.397+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:12:56.407+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:12:56.398+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:12:56.537+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:12:56.607+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:12:56.607+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:12:56.698+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:12:56.698+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:12:56.786+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.411 seconds
+[2025-03-28T00:13:27.389+0000] {processor.py:186} INFO - Started process (PID=30770) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:13:27.390+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:13:27.400+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:13:27.399+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:13:27.549+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:13:27.629+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:13:27.628+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:13:27.719+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:13:27.719+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:13:27.808+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.440 seconds
+[2025-03-28T00:13:58.506+0000] {processor.py:186} INFO - Started process (PID=30791) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:13:58.515+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:13:58.525+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:13:58.525+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:13:58.654+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:13:58.725+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:13:58.725+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:13:58.815+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:13:58.815+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:13:58.886+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.402 seconds
+[2025-03-28T00:14:29.233+0000] {processor.py:186} INFO - Started process (PID=30812) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:14:29.242+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:14:29.253+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:14:29.253+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:14:29.393+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:14:29.482+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:14:29.482+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:14:29.582+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:14:29.582+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:14:29.672+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.469 seconds
+[2025-03-28T00:15:00.479+0000] {processor.py:186} INFO - Started process (PID=30833) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:15:00.488+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:15:00.498+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:15:00.498+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:15:00.648+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:15:00.738+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:15:00.729+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:15:00.849+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:15:00.849+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:15:00.938+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.480 seconds
+[2025-03-28T00:15:31.326+0000] {processor.py:186} INFO - Started process (PID=30855) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:15:31.327+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:15:31.337+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:15:31.337+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:15:31.497+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:15:31.577+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:15:31.577+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:15:31.687+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:15:31.687+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:15:31.777+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.481 seconds
+[2025-03-28T00:16:02.492+0000] {processor.py:186} INFO - Started process (PID=30876) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:16:02.492+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:16:02.503+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:16:02.502+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:16:02.662+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:16:02.742+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:16:02.742+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:16:02.862+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:16:02.862+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:16:02.962+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.500 seconds
+[2025-03-28T00:16:33.289+0000] {processor.py:186} INFO - Started process (PID=30897) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:16:33.299+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:16:33.309+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:16:33.309+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:16:33.479+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:16:33.569+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:16:33.560+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:16:33.680+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:16:33.679+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:16:33.780+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.521 seconds
+[2025-03-28T00:17:04.161+0000] {processor.py:186} INFO - Started process (PID=30918) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:17:04.170+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:17:04.181+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:17:04.181+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:17:04.350+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:17:04.430+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:17:04.430+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:17:04.531+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:17:04.531+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:17:04.630+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.499 seconds
+[2025-03-28T00:17:35.118+0000] {processor.py:186} INFO - Started process (PID=30939) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:17:35.128+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:17:35.138+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:17:35.138+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:17:35.329+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:17:35.428+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:17:35.428+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:17:35.548+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:17:35.548+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:17:35.658+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.570 seconds
+[2025-03-28T00:18:06.080+0000] {processor.py:186} INFO - Started process (PID=30960) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:18:06.081+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:18:06.101+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:18:06.100+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:18:06.270+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:18:06.351+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:18:06.350+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:18:06.470+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:18:06.461+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:18:06.571+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.521 seconds
+[2025-03-28T00:18:37.361+0000] {processor.py:186} INFO - Started process (PID=30981) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:18:37.370+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:18:37.381+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:18:37.380+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:18:37.570+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:18:37.661+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:18:37.661+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:18:37.791+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:18:37.791+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:18:37.900+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.570 seconds
+[2025-03-28T00:19:08.324+0000] {processor.py:186} INFO - Started process (PID=31002) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:19:08.334+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:19:08.354+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:19:08.353+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:19:08.554+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:19:08.664+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:19:08.664+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:19:08.814+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:19:08.814+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:19:08.934+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.641 seconds
+[2025-03-28T00:19:39.305+0000] {processor.py:186} INFO - Started process (PID=31023) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:19:39.314+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:19:39.324+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:19:39.324+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:19:39.515+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:19:39.615+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:19:39.614+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:19:39.765+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:19:39.764+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:19:39.885+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.610 seconds
+[2025-03-28T00:20:10.309+0000] {processor.py:186} INFO - Started process (PID=31044) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:20:10.310+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:20:10.329+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:20:10.329+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:20:10.540+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:20:10.640+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:20:10.639+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:20:10.770+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:20:10.770+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:20:10.900+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.630 seconds
+[2025-03-28T00:20:41.432+0000] {processor.py:186} INFO - Started process (PID=31065) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:20:41.442+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:20:41.461+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:20:41.452+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:20:41.652+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:20:41.761+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:20:41.752+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:20:41.892+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:20:41.892+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:20:42.012+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.610 seconds
+[2025-03-28T00:21:12.636+0000] {processor.py:186} INFO - Started process (PID=31086) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:21:12.646+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:21:12.656+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:21:12.656+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:21:12.866+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:21:12.996+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:21:12.987+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:21:13.157+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:21:13.156+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:21:13.286+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.691 seconds
+[2025-03-28T00:21:43.870+0000] {processor.py:186} INFO - Started process (PID=31107) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:21:43.870+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:21:43.891+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:21:43.890+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:21:44.110+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:21:44.221+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:21:44.220+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:21:44.360+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:21:44.360+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:21:44.480+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.651 seconds
+[2025-03-28T00:22:15.216+0000] {processor.py:186} INFO - Started process (PID=31128) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:22:15.217+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:22:15.237+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:22:15.236+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:22:15.467+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:22:15.597+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:22:15.597+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:22:15.746+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:22:15.737+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:22:15.887+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.720 seconds
+[2025-03-28T00:22:46.229+0000] {processor.py:186} INFO - Started process (PID=31149) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:22:46.230+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:22:46.249+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:22:46.249+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:22:46.530+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:22:46.649+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:22:46.640+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:22:46.819+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:22:46.810+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:22:46.950+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.770 seconds
+[2025-03-28T00:23:17.879+0000] {processor.py:186} INFO - Started process (PID=31170) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:23:17.880+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:23:17.900+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:23:17.900+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:23:18.140+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:23:18.269+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:23:18.260+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:23:18.430+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:23:18.430+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:23:18.580+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.750 seconds
+[2025-03-28T00:23:49.818+0000] {processor.py:186} INFO - Started process (PID=31191) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:23:49.828+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:23:49.839+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:23:49.838+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:23:50.129+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:23:50.268+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:23:50.268+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:23:50.428+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:23:50.428+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:23:50.569+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.800 seconds
+[2025-03-28T00:24:21.690+0000] {processor.py:186} INFO - Started process (PID=31211) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:24:21.699+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:24:21.719+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:24:21.719+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:24:21.979+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:24:22.120+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:24:22.119+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:24:22.290+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:24:22.290+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:24:22.459+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.810 seconds
+[2025-03-28T00:24:53.799+0000] {processor.py:186} INFO - Started process (PID=31233) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:24:53.809+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:24:53.829+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:24:53.828+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:24:54.109+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:24:54.259+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:24:54.259+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:24:54.459+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:24:54.459+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:24:54.699+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.950 seconds
+[2025-03-28T00:25:25.207+0000] {processor.py:186} INFO - Started process (PID=31254) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:25:25.216+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:25:25.237+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:25:25.237+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:25:25.517+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:25:25.667+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:25:25.667+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:25:25.867+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:25:25.867+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:25:26.096+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.950 seconds
+[2025-03-28T00:25:56.755+0000] {processor.py:186} INFO - Started process (PID=31275) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:25:56.765+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:25:56.785+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:25:56.785+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:25:57.085+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:25:57.255+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:25:57.255+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:25:57.535+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:25:57.535+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:25:57.775+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 1.080 seconds
+[2025-03-28T00:26:28.343+0000] {processor.py:186} INFO - Started process (PID=31295) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:26:28.353+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:26:28.373+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:26:28.364+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:26:28.703+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:26:28.924+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:26:28.923+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:26:29.183+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:26:29.174+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:26:29.404+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 1.120 seconds
+[2025-03-28T00:27:00.082+0000] {processor.py:186} INFO - Started process (PID=31316) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:27:00.101+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:27:00.122+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:27:00.122+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:27:00.582+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:27:00.812+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:27:00.802+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:27:01.102+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:27:01.092+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:27:01.312+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 1.290 seconds
+[2025-03-28T00:27:32.000+0000] {processor.py:186} INFO - Started process (PID=31337) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:27:32.020+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:27:32.060+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:27:32.050+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:27:32.580+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:27:32.850+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:27:32.841+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:27:33.120+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:27:33.120+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:27:33.340+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 1.419 seconds
+[2025-03-28T00:28:04.399+0000] {processor.py:186} INFO - Started process (PID=31365) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:28:04.418+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:28:04.439+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:28:04.439+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:28:04.829+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:28:05.039+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:28:05.029+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:28:05.308+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:28:05.299+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:28:05.539+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 1.210 seconds
+[2025-03-28T00:28:36.417+0000] {processor.py:186} INFO - Started process (PID=31386) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:28:36.437+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:28:36.478+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:28:36.477+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:28:36.907+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:28:37.197+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:28:37.188+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:28:37.577+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:28:37.577+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:28:37.837+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 1.500 seconds
+[2025-03-28T00:29:08.926+0000] {processor.py:186} INFO - Started process (PID=31407) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:29:08.946+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:29:08.976+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:29:08.976+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:29:09.406+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:29:09.636+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:29:09.626+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:29:09.936+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:29:09.935+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:29:10.216+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 1.360 seconds
+[2025-03-28T00:29:41.194+0000] {processor.py:186} INFO - Started process (PID=31428) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:29:41.204+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:29:41.234+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:29:41.234+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:29:41.634+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:29:41.915+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:29:41.914+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:29:42.304+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:29:42.304+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:29:42.584+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 1.470 seconds
+[2025-03-28T00:30:13.422+0000] {processor.py:186} INFO - Started process (PID=31449) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:30:13.433+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:30:13.473+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:30:13.463+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:30:13.903+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:30:14.173+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:30:14.163+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:30:14.523+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:30:14.522+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:30:14.822+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 1.500 seconds
+[2025-03-28T00:30:46.081+0000] {processor.py:186} INFO - Started process (PID=31470) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:30:46.101+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:30:46.141+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:30:46.131+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:30:46.631+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:30:46.941+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:30:46.931+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:30:47.331+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:30:47.321+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:30:47.661+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 1.670 seconds
+[2025-03-28T00:31:18.640+0000] {processor.py:186} INFO - Started process (PID=31491) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:31:18.660+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:31:18.700+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:31:18.699+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:31:19.250+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:31:19.570+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:31:19.560+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:31:19.970+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:31:19.969+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:31:20.329+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 1.800 seconds
+[2025-03-28T00:31:51.897+0000] {processor.py:186} INFO - Started process (PID=31511) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:31:51.917+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:31:51.977+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:31:51.967+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:31:52.607+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:31:52.987+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:31:52.977+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:31:53.477+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:31:53.477+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:31:53.877+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 2.100 seconds
+[2025-03-28T00:32:24.996+0000] {processor.py:186} INFO - Started process (PID=31532) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:32:25.016+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:32:25.066+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:32:25.056+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:32:25.796+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:32:26.196+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:32:26.186+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:32:26.766+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:32:26.766+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:32:27.256+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 2.390 seconds
+[2025-03-28T00:32:58.564+0000] {processor.py:186} INFO - Started process (PID=31553) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:32:58.584+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:32:58.654+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:32:58.644+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:32:59.534+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:33:00.084+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:33:00.064+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:33:00.764+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:33:00.764+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:33:01.264+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 2.860 seconds
+[2025-03-28T00:33:33.373+0000] {processor.py:186} INFO - Started process (PID=31574) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:33:33.403+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:33:33.473+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:33:33.463+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:33:34.433+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:33:35.053+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:33:35.033+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:33:35.943+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:33:35.933+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:33:36.683+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 3.460 seconds
+[2025-03-28T00:34:08.692+0000] {processor.py:186} INFO - Started process (PID=31595) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:34:08.742+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:34:08.842+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:34:08.822+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:34:10.002+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:34:10.672+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:34:10.652+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:34:11.692+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:34:11.682+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:34:12.582+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 4.120 seconds
+[2025-03-28T00:34:45.590+0000] {processor.py:186} INFO - Started process (PID=31621) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:34:45.650+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:34:45.760+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:34:45.740+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:34:47.170+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:34:48.250+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:34:48.200+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:34:49.600+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:34:49.590+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:34:50.570+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 5.390 seconds
+[2025-03-28T00:35:25.887+0000] {processor.py:186} INFO - Started process (PID=31642) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:35:25.937+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:35:26.077+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:35:26.056+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:35:28.177+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:35:29.537+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:35:29.487+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:35:31.557+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:35:31.537+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:35:33.457+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 7.940 seconds
+[2025-03-28T00:36:12.552+0000] {processor.py:186} INFO - Started process (PID=31665) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:36:12.652+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:36:12.952+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:36:12.902+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:36:16.742+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:36:21.032+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:36:20.852+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:36:28.799+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:36:28.629+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:36:33.739+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 21.940 seconds
+[2025-03-28T00:43:04.956+0000] {processor.py:186} INFO - Started process (PID=215) to work on /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:43:04.957+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/data226_hwk5 (7).py for tasks to queue
+[2025-03-28T00:43:04.958+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:43:04.958+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:43:04.975+0000] {processor.py:925} INFO - DAG(s) 'Stocks' retrieved from /opt/airflow/dags/data226_hwk5 (7).py
+[2025-03-28T00:43:04.985+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:43:04.985+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-03-28T00:43:04.998+0000] {logging_mixin.py:190} INFO - [2025-03-28T00:43:04.998+0000] {dag.py:4156} INFO - Setting next_dagrun for Stocks to 2025-03-26 02:30:00+00:00, run_after=2025-03-27 02:30:00+00:00
+[2025-03-28T00:43:05.008+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/data226_hwk5 (7).py took 0.055 seconds
