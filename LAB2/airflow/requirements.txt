@@ -1,0 +1,6 @@
+apache-airflow==2.10.1
+apache-airflow-providers-snowflake==5.7.0
+dbt-core==1.7.5
+dbt-snowflake==1.7.5
+snowflake-connector-python==3.8.1
+yfinance==0.2.38
