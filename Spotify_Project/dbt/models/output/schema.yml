@@ -1,0 +1,12 @@
+version: 2
+
+models:
+  - name: avg_popularity
+    description: "Average popularity"
+    columns:
+      - name: release_date
+        tests:
+          - not_null
+      - name: avg_popularity
+        tests:
+          - not_null
