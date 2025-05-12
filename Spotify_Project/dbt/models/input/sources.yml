@@ -1,0 +1,24 @@
+version: 2
+
+sources:
+  # - name: analytics
+  #   database: USER_DB_BLUEJAY
+  #   schema: analytics
+  #   description: "Schema which stores materialized analytics views"
+  #   tables:
+  #     - name: tracks
+  #       identifier: TOP_TRACKS
+  #       description: "View for top Spotify tracks in the analytics layer"
+  - name: raw
+    database: USER_DB_BLUEJAY
+    schema: raw
+    tables:
+      - name: tracks
+        identifier: TRACKS
+        description: "Raw tracks data with popularity and explicit flags"
+      - name: albums
+        identifier: ALBUMS
+        description: "Album-level data including release date, type, label, and artist"
+      - name: artist
+        identifier: ARTIST
+        description: "Artist profile data with popularity, followers, and genres"

@@ -1,0 +1,19 @@
+-- models/input/albums.sql
+
+SELECT
+    TRACK_ID,
+    TRACK_NAME,
+    TRACK_NUMBER,
+    DURATION_MS,
+    DURATION_SEC,
+    ALBUM_ID,
+    ALBUM_NAME,
+    ALBUM_TYPE,
+    TOTAL_TRACKS,
+    RELEASE_DATE,
+    LABEL,
+    ALBUM_POPULARITY,
+    ARTIST_ID,
+    ARTIST_0
+FROM {{ source('raw', 'albums') }}
+WHERE RELEASE_DATE IS NOT NULL
