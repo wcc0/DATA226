@@ -1,0 +1,10 @@
+SELECT
+    a.TRACK_NAME,
+    a.ARTIST_0,
+    a.DURATION_SEC,
+    t.TRACK_POPULARITY
+FROM {{ ref('tracks') }} t
+JOIN {{ ref('albums') }} a ON t.TRACK_ID = a.TRACK_ID
+WHERE a.DURATION_SEC < 90
+ORDER BY t.TRACK_POPULARITY DESC
+LIMIT 10

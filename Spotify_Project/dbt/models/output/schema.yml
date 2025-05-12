@@ -1,0 +1,242 @@
+version: 2
+
+models:
+  - name: tracks
+    description: "Staging model for raw tracks data"
+    columns:
+      - name: track_id
+        tests:
+          - not_null
+          - unique
+      - name: track_popularity
+        tests:
+          - not_null
+      - name: explicit
+        tests:
+          - not_null
+
+  - name: avg_popularity
+    description: "Average track popularity by release year"
+    columns:
+      - name: release_year
+        tests:
+          - not_null
+      - name: avg_popularity
+        tests:
+          - not_null
+
+  - name: top_tracks_by_day
+    description: "Top 10 tracks per release year based on popularity"
+    columns:
+      - name: release_year
+        tests:
+          - not_null
+      - name: track_id
+        tests:
+          - not_null
+      - name: rank
+        tests:
+          - not_null
+
+  - name: explicit_vs_clean
+    description: "Distribution and average popularity of explicit vs clean tracks by year"
+    columns:
+      - name: release_year
+        tests:
+          - not_null
+      - name: explicit
+        tests:
+          - not_null
+      - name: avg_popularity
+        tests:
+          - not_null
+
+  - name: albums
+    description: "Staging model for raw album data"
+    columns:
+      - name: track_id
+        tests:
+          - not_null
+      - name: album_id
+        tests:
+          - not_null
+      - name: album_popularity
+        tests:
+          - not_null
+      - name: release_date
+        tests:
+          - not_null
+
+  - name: avg_album_popularity_by_year
+    description: "Average album popularity by release year"
+    columns:
+      - name: release_year
+        tests:
+          - not_null
+      - name: avg_album_popularity
+        tests:
+          - not_null
+
+  - name: label_performance
+    description: "Label-wise album count and average popularity"
+    columns:
+      - name: label
+        tests:
+          - not_null
+      - name: album_count
+        tests:
+          - not_null
+      - name: avg_popularity
+        tests:
+          - not_null
+
+  - name: album_type_distribution
+    description: "Distribution of albums by type and year"
+    columns:
+      - name: album_type
+        tests:
+          - not_null
+      - name: release_year
+        tests:
+          - not_null
+      - name: album_count
+        tests:
+          - not_null
+
+  - name: track_length_trend
+    description: "Average track duration trend over release years"
+    columns:
+      - name: release_year
+        tests:
+          - not_null
+      - name: avg_duration_sec
+        tests:
+          - not_null
+
+  - name: artist
+    description: "Staging model for artist-level metadata including followers, popularity, and genres"
+    columns:
+      - name: artist_id
+        tests:
+          - not_null
+          - unique
+      - name: name
+        tests:
+          - not_null
+      - name: artist_popularity
+        tests:
+          - not_null
+      - name: followers
+        tests:
+          - not_null
+
+  - name: top_artists_by_followers
+    description: "Top 10 artists by follower count"
+    columns:
+      - name: name
+        tests:
+          - not_null
+      - name: followers
+        tests:
+          - not_null
+      - name: artist_popularity
+        tests:
+          - not_null
+
+  - name: top_artists_by_popularity
+    description: "Top 10 artists by popularity"
+    columns:
+      - name: name
+        tests:
+          - not_null
+      - name: artist_popularity
+        tests:
+          - not_null
+      - name: followers
+        tests:
+          - not_null
+
+  - name: genre_popularity
+    description: "Genre vs artist popularity and followers"
+    columns:
+      - name: primary_genre
+        tests:
+          - not_null
+      - name: artist_count
+        tests:
+          - not_null
+      - name: avg_popularity
+        tests:
+          - not_null
+      - name: avg_followers
+        tests:
+          - not_null
+          
+  - name: explicit_percent_by_genre
+    description: "Genre-wise percentage of explicit tracks among artists"
+    columns:
+      - name: genre
+        tests:
+          - not_null
+      - name: total_tracks
+        tests:
+          - not_null
+      - name: explicit_tracks
+        tests:
+          - not_null
+      - name: explicit_percentage
+        tests:
+          - not_null
+
+  - name: top_artists_followers_and_popularity
+    description: "Artists with their follower count and average track popularity"
+    columns:
+      - name: artist_name
+        tests:
+          - not_null
+      - name: followers
+        tests:
+          - not_null
+      - name: avg_track_popularity
+        tests:
+          - not_null
+
+  - name: longest_tracks
+    description: "Top 10 longest tracks by duration (in minutes)"
+    columns:
+      - name: track_name
+        tests:
+          - not_null
+      - name: artist_0
+        tests:
+          - not_null
+      - name: duration_min
+        tests:
+          - not_null
+
+  - name: short_popular_tracks
+    description: "Top 10 most popular tracks under 90 seconds"
+    columns:
+      - name: track_name
+        tests:
+          - not_null
+      - name: artist_0
+        tests:
+          - not_null
+      - name: duration_sec
+        tests:
+          - not_null
+      - name: track_popularity
+        tests:
+          - not_null
+
+  - name: one_hit_wonders
+    description: "Artists with exactly one distinct track"
+    columns:
+      - name: artist_0
+        tests:
+          - not_null
+      - name: track_count
+        tests:
+          - not_null
+
