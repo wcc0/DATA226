@@ -1,3 +1,5 @@
-# Spotify Trend Prediction Analysis
+# Data Warehouse and Pipeline Coursework
 
-![image](https://github.com/user-attachments/assets/4573b11c-225b-4d40-8798-09a5577c1847)
+Homework - contains homework from the course
+Lab - contains lab work from the course
+Spotify Project - End-to-end pipeline for Spotify trend prediction analysis
